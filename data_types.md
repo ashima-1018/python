@@ -1,12 +1,12 @@
 # fundamental data types
-# int 
-# float 
-# bool
-# str they are inmutable
-# list 
-# tuple
-# set 
-# dict 
+ int 
+ float 
+ bool
+ str  ---> they are inmutable
+ list 
+ tuple
+ set 
+ dict 
 
 
 # classes --> we can create our custom type
