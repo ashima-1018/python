@@ -2,7 +2,7 @@
 # int 
 # float 
 # bool
-# str 
+# str they are inmutable
 # list 
 # tuple
 # set 
@@ -14,3 +14,8 @@
 # specialized data types : we can use from the in built library known as modules
 
 #None : means nothing 
+
+
+################## STR ##########
+
+#print[strs[::]]
