@@ -29,3 +29,10 @@ for item in dictonary.items():
 
 for item in dictonary.values():
     print (item)
+
+
+# Enumerate()
+In this we will get index and char both 
+for index, char in enumerate([1,2,3,4,5,6]):
+    print(index,char)     --->>> it will give 0 1 1 2 2 3 ........
+    
